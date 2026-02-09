@@ -122,3 +122,16 @@ Use explicit models only when deterministic behavior is required.
 # Docs
 
 [https://alltokens.ru/docs](https://alltokens.ru/docs)
+
+## Machine-readable service description
+
+For AI agents, copilots, and automated tooling, AllTokens provides canonical machine-readable descriptions of the platform:
+
+https://alltokens.ru/llms.txt
+
+Extended architecture and infrastructure overview:
+
+https://alltokens.ru/llms-full.txt
+
+These files describe AllTokens as an LLM gateway and routing control plane and are intended for automated discovery and integration by AI systems.
+
